@@ -25,6 +25,43 @@ AAPanel là một bảng điều khiển web giúp quản lý web server, cơ s�
 Vì vậy, để sử dụng Laravel, bạn cần thiết lập môi trường LAMP/LNMP trước, và có thể sử dụng AAPanel để quản lý môi trường nây mội cách thuận tiện hơn. Sau khi có môi trường phát triển sẵn sàng, bạn mới có thể bắt đầu sử dụng Laravel để xây dựng ứng dụng web.
 
 
+# aaPanel là gì? Hướng dẫn cách cài đặt aaPanel cho VPS
+
+Hưng Nguyễn
+
+Nếu bạn đang có nhu cầu tìm kiếm một control panel gọn nhẹ, yêu cầu cấu hình vừa phải mà lại có thể đáp ứng tiêu chí về độ mượt mà, ổn định thì aaPanel là một gợi ý bạn có thể tham khảo. Hãy cùng Vietnix đến với bài viết dưới đây để cùng tìm hiểu aaPanel là gì và cách cài đặt aaPanel cho VPS đơn giản nhất.
+
+Mục lục
+
+aaPanel là gì?
+
+aaPanel là một control panel miễn phí, cho phép người dùng quản lý server với giao diện GUI đơn giản. Đặt biệt, thông qua aaPanel, bạn có thể dễ dàng cài đặt một server web chạy mô hình LNMP/LAMP chỉ bằng một số thao tác đơn giản.
+
+![](https://vietnix.vn/wp-content/uploads/2023/03/aapanel-la-gi.webp)
+
+Nếu bạn đã từng nghe qua về BAOTA Panel - một hosting control miễn phí nổi tiếng được phát triển tại Trung Quốc. aaPanel là phiên bản quốc tế hóa của BAOTA Panel. Phiên bản này được ra đời với mục đích đơn giản hóa việc cài đặt, quản trị VPS và server web, giúp người dùng có thể dễ dàng tỉếp cận và sử dụng để phát triển ứng dụng mà không cần phải quan tâm quá nhiều đến hệ thống.
+
+Mặc dù aaPanel còn khá mới (chỉ mới phát triển đến version 1.1.j)
+và có ít tính năng hơn BAOTA Panel, nhưng aaPanel vẫn được khuyên dùng bởi control panel này liên tục được cập nhật với nhiều tính năng hữu ích.
+
+## Chức năng của aaPanel là gì?
+
+Vì aaPanel còn khá mới nên chỉ hỗ trợ cho người dùng một số chức năng cơ bản nhất như: quản lý web, Database, FTP và File.
+
+Operating System - Hệ điều hành hỗ trợ (OS) của aaPanel cũng khá đầy đủ. Bao gồm : CentOS, Debian, Ubuntu, Fedora. **Tuy nhiên, bạn cần lưu ý rằng OS phải Pure and Clean(tức mới và sạch sẽ)** và chưa từng cài các phần mềm hay nền tảng như PHP/Apache/NGINX/MySQL. Ngoài ra, để chạy aaPanel, cấu hình tối thiểu cần
+
+
+Nếu bạn đang tìm kiếm một giải pháp thay thể máy chủ ảo (VPS) tốc độ cao, bảo mật và toàn quyền quản trị, bạn có thể tham khảo dịch vụ VPS giá rẻ , VPS Phổ thông, VPS Cao cấp, VPS NVMe của Vietnix.
+
+## Lời kết
+
+Bên trên là một số thồng tin cơ bản về aaPanel và cách sử dụng aaPanel. Nhìn chung, aaPanel sẽ là một gợi ý dành cho những ai đang tìm kiếm control panel để làm web hosting cá nhân bởi độ gọn nhẹ, mượt mà và hiệu năng ổn định. Ngoài ra, đừng quên chia sẻ bài viết này để mọi người cùng tham khảo nhé.
+
+Hưng Nguyễn
+Co-Founder tại Vietnix
+
+
+
 
 
 
