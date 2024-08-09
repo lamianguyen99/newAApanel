@@ -1,5 +1,32 @@
 # newAApanel
 
+Content:
+
+Bạn đặt câu hỏi rất hay. Trước khi sử dụng Laravel, bạn cần thiết lập môi trường phát triển phù hợp. Có 2 lựa chọn phổ biến là:
+
+1. LAMP(Linux, Apache, MySQL, PHP):
+
+- Đây là môi trường phát triện phổ biến cho các ứng dụng PHP, bao gồm cả Laravel.
+- Trong môi trường LAMP, bạn cần cài đặt:
+    - Linux(Hệ điều hành)
+    - Apache(web server)
+    - MySQL(Cơ sở dữ liệu)
+    - PHP(ngôn ngữ lập trình)
+
+2. LNMP(Linux, Nginx, MySQL, PHP):
+
+- Đây là một biến thể của LAMP, sử dụng Nginx thay vì Apache.
+- Nginx thường được coi là nhanh hơn và hiệu quả hơn Apache, đặc biệt là khi xử lý lưu lượng truy cập cao.
+
+Ngoài ra, có một số công cụ giúp việc cài đặt và quản lý môi trường phát triền trở nên dễ dàng hơn, chẵng hạn như AAPanel.
+
+AAPanel là một bảng điều khiển web giúp quản lý web server, cơ sở dữ liệu, ứng dụng web,v.v.v... Nó cung cấp một giao diện đồ họa thân thiện người dùng, giúp việc cài đặt và quản lý LAMP/LNMP trở nên dễ dàng hơn.
+
+Vì vậy, để sử dụng Laravel, bạn cần thiết lập môi trường LAMP/LNMP trước, và có thể sử dụng AAPanel để quản lý môi trường nây mội cách thuận tiện hơn. Sau khi có môi trường phát triển sẵn sàng, bạn mới có thể bắt đầu sử dụng Laravel để xây dựng ứng dụng web.
+
+
+
+
 
 sau đó ta cài OpenLite speed
 
