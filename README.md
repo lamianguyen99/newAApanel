@@ -61,6 +61,35 @@ Hưng Nguyễn
 Co-Founder tại Vietnix
 
 
+## Laravel là gì? Hướng dẫn cài đặt Laravel theo 2 cách
+
+> Mục lục
+
+### 1. Laravel là gì?
+
+**Laravel** một framework PHP mã nguồn mở miễn phí, được phát triển bởi Taylor Otwell với phiên bản đầu tiên được ra mắt vào tháng 6 năm 2011. Laravel được thiết kế nhằm mục đích giúp phát triển ứng dụng web dễ dàng hơn và nhanh hơn, dựa trên mô hình MVC(Model -  View - Controller).
+
+![](https://vietnix.vn/wp-content/uploads/2022/01/image-15.png.webp)
+
+
+Mặc dù được phát triển sau so với các đối thủ khác, nhưng hiện nay đã có hơn 70% tỷ lệ trang web được phát triển trên nền tảng Laravel, ví dụ: Barchart.com, Alison.com...
+
+> Nếu bạn đang tìm hiểu giữa WordPress và Laravel hãy tham khảo bài
+>viết này từ Vietnix để có lựa chọn phù hợp nhé: WordPress và Laravel, > nền tảng nào tốt để phát triển Website?
+
+## Tại sao nên sử dụng Laravel?
+
+Sau khi tìm hiểu qua định nghĩa Laravel là gì bạn vẫn còn băn khoăn chưa tìm hiểu được lý do tại sao nên sử dụng Laravel? Dưới đây, Vietnix sẽ đưa ra một số lý do và bạn có thể tin tưởng sử dụng PHP Laravel ngay hôm nay để phát triển các ứng dụng web của mình.
+
+![](https://vietnix.vn/wp-content/uploads/2022/01/tai-sao-nen-su-dung-laravel.webp)
+
+### 1. Tính đơn giản
+
+Để bắt đầu học Laravel rất đơn giản và dễ dàng, đó là điểm cộng lớn đối với php laravel. Laravel có thể sử dụng, đơn giản đối với cả những lập trình viên chưa có nhiều kinh nghiệm. Nếu bạn là người mói bắt đầu về Laravel, bạn có thể chỉ cần vài giờ để thực hiện dự án của mình.
+
+### 2. Tính bảo mật
+
+Đây là yếu tố quan trọng để người dùng cân nhắc lựa chọn giữa các nền tảng để phát triển website. PHP Laravel giúp người dùng xác thực bảo mật mạnh mẽ. tích hợp tính năng mã thông báo CSRF giups xử lý các mối đe dọa trưc tuyến, bảo vệ ứng dụng web trước các rủi ro an ninh mạng nghiêm trọng nhất(ví dụ: SQL Injection)
 
 
 
